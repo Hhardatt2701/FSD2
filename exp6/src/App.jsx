@@ -7,7 +7,7 @@ import Form from "./components/Form";
 function App() {
   return (
     <div>
-      <h2>Experiment 6: Form Handling & Validation done by uid-23BDA70048</h2>
+      <h2>Experiment 6: Form Handling & Validation done by uid-23BDA70069</h2>
       <Form />
     </div>
   );

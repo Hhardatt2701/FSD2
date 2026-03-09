@@ -12,7 +12,7 @@ export default function LocalStateCounter({ cno }) {
   const decreaseCount = () => setCount(count - 1);
 
   return (
-    <h5>by harshit hardatta</h5>,
+    
     <Box sx={{ marginBottom: 2 }}>
       
       <Container maxWidth="sm">
@@ -32,5 +32,6 @@ export default function LocalStateCounter({ cno }) {
         </Box>
       </Container>
     </Box>
+    
   );
 }
